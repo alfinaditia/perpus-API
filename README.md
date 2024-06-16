@@ -6,4 +6,4 @@ lakukan "npm run start", kemudian dokumentasi API ada di http://localhost:3000/a
 
 # ALGORITMA
 
-semua ada di folder algoritma sesuai nomer
+semua ada di folder "algoritma" sesuai nomer
